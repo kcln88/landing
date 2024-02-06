@@ -1,0 +1,15 @@
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.card {
+  background-color: #a4c3b2;
+  padding: 0px;
+  border-radius: 12px;
+  width: 250px;
+  box-shadow: 0 0 5px rgb(24, 23, 23);
+  text-align: center;
+  margin: 20px;
+}

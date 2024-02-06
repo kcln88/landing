@@ -1,0 +1,18 @@
+.banner {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.724), rgba(0, 53, 9, 0.448)), url(https://cds.chinadaily.com.cn/dams/capital/image/202112/09/61b13749e4b0272e99602903.jpg);
+  padding: 200px 0;
+  background-size: cover;
+  background-position: center;
+
+}
+
+.banner h1 {
+  color: rgb(255, 255, 255);
+  text-shadow: 1px 1px 2px black;
+}
+
+.banner p {
+  color: white;
+  text-shadow: 1px 1px 2px black;
+  margin-bottom: 30px;
+}

@@ -1,0 +1,10 @@
+.footer {
+  background-image: linear-gradient(rgba(255, 255, 255, 0.435), rgba(255, 255, 255, 0.158)), url(https://etimg.etb2bimg.com/thumb/msid-98936873,imgsize-788790,width-1200,height=765,overlay-ettravel/destination/states/how-elderly-travellers-are-breaking-stereotypes.jpg);
+  padding: 10px 0;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(2, 39, 2);
+}
